@@ -2,10 +2,10 @@
 A project based on Django Framework with implementation of HTML,CSS and bootstrap.
 This Django project can be used to see various flowers and shop them online.
 ## Major Features of Project:
-  # Sign in and sign up page
-  # Add to cart feature
-  # Navbar
-  # Corousle
+  - Sign in and sign up page
+  - Add to cart feature
+  - Navbar
+  - Corousle
 ### Getting Started
 
 Follow these steps to get a local copy of the project up and running for development and testing purposes:
