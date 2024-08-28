@@ -42,8 +42,6 @@ Access the project at `http://127.0.0.1:8000/`.
 
 ### Screenshots 
 
-![screenshot_8_28_2024_10-30-15 AM](https://github.com/user-attachments/assets/abaa4140-1b89-4aeb-ac4a-6f621fe693a3)
-
 ![screenshot_8_28_2024_10-27-48 AM](https://github.com/user-attachments/assets/35e44bff-31eb-4367-93f4-01ea55cde114)
 
 ![screenshot_8_28_2024_10-28-31 AM](https://github.com/user-attachments/assets/2b0143d7-a490-454b-94d1-81849b6be9b1)
