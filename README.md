@@ -42,13 +42,19 @@ Access the project at `http://127.0.0.1:8000/`.
 
 ### Screenshots 
 
-![screenshot_8_28_2024_10-44-15 AM](https://github.com/user-attachments/assets/99540277-fc17-4246-bdbf-6b65f29286f7)
-
 ![screenshot_8_28_2024_10-30-15 AM](https://github.com/user-attachments/assets/abaa4140-1b89-4aeb-ac4a-6f621fe693a3)
 
 ![screenshot_8_28_2024_10-27-48 AM](https://github.com/user-attachments/assets/35e44bff-31eb-4367-93f4-01ea55cde114)
 
 ![screenshot_8_28_2024_10-28-31 AM](https://github.com/user-attachments/assets/2b0143d7-a490-454b-94d1-81849b6be9b1)
+
+![Screenshot 2024-08-28 102917](https://github.com/user-attachments/assets/fde52a52-e617-42f2-bcce-64e147cff46c)
+
+![Screenshot 2024-08-28 103000](https://github.com/user-attachments/assets/649f6d46-226a-4523-beb0-494613369092)
+
+![screenshot_8_28_2024_10-44-15 AM](https://github.com/user-attachments/assets/99540277-fc17-4246-bdbf-6b65f29286f7)
+
+
 
 
 
