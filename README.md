@@ -1,5 +1,5 @@
 # Phoolwari
-A project based on Django Framework with implementation of HTML,CSS and bootstrap.
+A group project based on Django Framework with implementation of HTML,CSS and bootstrap.
 This Django project can be used to see various flowers and shop them online.
 ## Major Features of Project:
   - Sign in and sign up page
